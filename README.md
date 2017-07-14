@@ -18,35 +18,35 @@
 - sublime
 - webstorm
 
-#####1.2.2.调试工具
+##### 1.2.2.调试工具
 - Chrome Dev Tools
 
-#####1.2.3.自动化及包管理工具
+##### 1.2.3.自动化及包管理工具
 - npm
 - Grunt
 
-####1.3.前端框架（库）
+#### 1.3.前端框架（库）
 
 - jQuery
 - Bootstrap
 - Echarts
 - *Vue
 
-####1.4.其他技术
+#### 1.4.其他技术
 
 - nodejs
 - Ajax
 - 建议使用Markdown标记语言撰写文档
 
-###2.技术规范
+### 2.技术规范
 
-####2.1.通用规范
+#### 2.1.通用规范
 
 - CSS样式属性或者javascript代码后加“;”
 - 文件内容编码均统一为UTF-8。
 - 文件名用英文单词，全部采用小写方式， 多个单词用下划线分隔。
 
-####2.2.Html规范
+#### 2.2.Html规范
 
 - 嵌套的节点应该缩进，缩进使用TAB键或使用4个空格。
 - 在属性上，使用双引号，不要使用单引号。
@@ -93,7 +93,7 @@
     aria-*, role
     required, readonly, disabled
 - 语义化HTML，且尽可能减少<div>嵌套。
-####2.3.css规范
+#### 2.3.css规范
 - 每个属性声明末尾都要加分号。
 - CSS书写顺序。
 ``` markdown
@@ -154,25 +154,25 @@
 
 - 命名：类名使用小写字母，以中划线分隔，id采用驼峰式命名。
 
-###3.学习路径
+### 3.学习路径
 - 当你在浏览器中输入google.com并按下回车后发生了什么 https://github.com/skyline75489/what-happens-when-zh_CN
-####3.1.html
+#### 3.1.html
 - HTML+CSS基础课程 http://www.imooc.com/learn/9
 - MDN的HTML入门 https://developer.mozilla.org/zh-CN/docs/Web/HTML
 - 网页简单布局之结构与表现原则 http://www.imooc.com/learn/20
-####3.2.css
+#### 3.2.css
 - HTML+CSS基础课程 http://www.imooc.com/learn/9
 - 如何用CSS进行网页布局 http://www.imooc.com/learn/57
 - MDN的CSS入门教程 https://developer.mozilla.org/zh-CN/docs/Web/CSS
 - 学习CSS布局 http://zh.learnlayout.com/display.html
-####3.3.javascript
+#### 3.3.javascript
 - JavaScript入门篇 http://www.imooc.com/learn/36
 - JavaScript菜鸟教程 http://www.runoob.com/js/js-tutorial.html
-####3.4.jQuery
+#### 3.4.jQuery
 - jQuery基础 （一）-（三）http://www.imooc.com/course/list?c=jquery&is_easy=1
 - jQuery菜鸟教程 http://www.runoob.com/jquery/jquery-tutorial.html
 
-####3.5.bootstrap
+#### 3.5.bootstrap
 - bootstrap基础 http://www.imooc.com/learn/141
 - bootstrap官方文档 http://v3.bootcss.com/
 
