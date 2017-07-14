@@ -30,7 +30,7 @@
 - jQuery
 - Bootstrap
 - Echarts
-- *Vue
+- *Express
 
 #### 1.4.其他技术
 
