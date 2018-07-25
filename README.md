@@ -8,9 +8,9 @@
 
 - css
 
-- javascript（ECMAScript5）
+- javascript（ECMAScript6）
 
-- Coffeescript
+- node.js
 
 #### 1.2. 开发工具
 
@@ -24,18 +24,20 @@
 ##### 1.2.3.自动化及包管理工具
 - npm
 - Grunt
+- webpack
 
 #### 1.3.前端框架（库）
 
 - jQuery
 - Bootstrap
+- vue.js
 - Echarts
 - *Express
 
 #### 1.4.其他技术
 
 - nodejs
-- Ajax
+- Axios (Ajax)
 - 建议使用Markdown标记语言撰写文档
 
 ### 2.技术规范
